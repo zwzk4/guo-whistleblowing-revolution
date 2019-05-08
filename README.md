@@ -4,7 +4,7 @@
 
 > 本文首发于 https://github.com/ourhimalayas/txt/issues/1  
 > 任何评论、优化、补充，可直接[提 issue](https://github.com/Pangu2020together/guo-whistleblowing-revolution/issues/new)，或 fork 后提 PR  
-> 别忘了点 ⭐ `Star` 哦！
+> 别忘了点 ⭐ Star 哦！
 
 > 在阅读正文前，你需要保证你能安全地访问到外网
 
