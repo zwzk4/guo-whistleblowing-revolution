@@ -32,7 +32,9 @@
 
 如果你觉得视频太长了，那么以下还提供简要文字版（二选一即可，内容都一样）：
 * Google Drive 托管的 PPT 版本：https://drive.google.com/file/d/1_1OI_9bzHRih-YtDfPepmHDzlEJEQSrQ/view
-* Github 托管的 PDF 版本：[郭文贵简介3.3.pdf](./郭文贵简介3.3.pdf)
+* Github 托管的 PDF 版本：[郭文贵简介3.3.pdf](./郭文贵简介3.3.pdf)  
+
+> 文字版来源：https://twitter.com/tuiqiandang/status/1074130252354502656
 
 ## § 温馨提示
 
