@@ -122,6 +122,7 @@ https://discord.gg/ZhGK3EA
   * https://www.youtube.com/channel/UCXzjnbuSksU4_Pnop7Z5cRw
 * 汉字小哥 https://www.youtube.com/channel/UCeCZwXqDZNMdBFZBJsHLFrw
 * 贵友社 https://www.youtube.com/channel/UCfyG74GV62goE0GG0VkhAgA
+* ChinaQly中文Q圈 https://www.youtube.com/channel/UCDWi7iBJn7i0JCKbcVQSwpA
 * 有关经济方面比较中肯的频道：
   * 漫谈财经 https://www.youtube.com/channel/UC9AODB8HvRTuWJfH_896TiQ
   * 子弘闲谈 https://www.youtube.com/channel/UClS1mgEIYLN9k03_B9o2DCw
