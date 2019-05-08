@@ -119,6 +119,8 @@ https://discord.gg/ZhGK3EA
 * 好奇的蚂蚁
   * https://www.youtube.com/channel/UC1Pqg0BJoPijWFM4Z8555mA
   * https://www.youtube.com/channel/UCXzjnbuSksU4_Pnop7Z5cRw
+* 汉字小哥 https://www.youtube.com/channel/UCeCZwXqDZNMdBFZBJsHLFrw
+* 贵友社 https://www.youtube.com/channel/UCfyG74GV62goE0GG0VkhAgA
 * 有关经济方面比较中肯的频道：
   * 漫谈财经 https://www.youtube.com/channel/UC9AODB8HvRTuWJfH_896TiQ
   * 子弘闲谈 https://www.youtube.com/channel/UClS1mgEIYLN9k03_B9o2DCw
@@ -149,6 +151,8 @@ https://discord.gg/ZhGK3EA
 * 北京姑娘聊天室 https://twitter.com/zvBjV0X0FF8P56y
 * 喜马拉雅国际工作站 https://twitter.com/HGW45599518
 * 好奇的蚂蚁03 https://twitter.com/CuriousAnt003
+* 汉字小哥 https://twitter.com/HZAD2018
+* 贵友 https://twitter.com/Wenai13
 * 财经真相 https://twitter.com/caijingxiang
 
 > 值得注意的是，上述用户的（被）关注者以及转发/点赞/评论者，未必都是挺郭战友。  
