@@ -1,3 +1,5 @@
+![Cover](./guomedia_cover.jpg)
+
 # 郭文贵爆料革命 · 启蒙开智入门指南 ✊✊✊
 
 > 本文首发于 https://github.com/ourhimalayas/txt/issues/1  
