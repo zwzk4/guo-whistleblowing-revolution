@@ -1,7 +1,7 @@
 # 郭文贵爆料革命 · 启蒙开智入门指南 ✊✊✊
 
 > 本文首发于 https://github.com/ourhimalayas/txt/issues/1  
-> 若有任何优化、补充，可直接[提 issues](https://github.com/Pangu2020together/guo-whistleblowing-revolution/issues/new)，或 fork 后提 PR
+> 若有任何优化、补充，可直接[提 issue](https://github.com/Pangu2020together/guo-whistleblowing-revolution/issues/new)，或 fork 后提 PR
 
 > 在阅读正文前，你需要保证你能安全地访问到外网
 
